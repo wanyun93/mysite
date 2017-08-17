@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![avatar](ling.jpg)
+![avatar](line.jpg)
 
 # Kirby
 
