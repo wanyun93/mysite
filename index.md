@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Hangi](line.jpg)
+![avatar](line.jpg)
 
 # Hangi
 
